@@ -1,0 +1,3 @@
+javageneration.A
+javageneration.B
+javageneration.SimpleInheritance
